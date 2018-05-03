@@ -1,0 +1,1 @@
+cmd_/home/aabdulkadir/Documents/fireWall/linuxFirewall/firewallModule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/aabdulkadir/Documents/fireWall/linuxFirewall/firewallModule.ko /home/aabdulkadir/Documents/fireWall/linuxFirewall/firewallModule.o /home/aabdulkadir/Documents/fireWall/linuxFirewall/firewallModule.mod.o
